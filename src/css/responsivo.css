@@ -1,0 +1,17 @@
+@media (max-width: 700px) {
+
+    body .relogio {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        box-shadow: none;
+       
+        gap: 50px;
+    }
+
+    .relogio div {
+        height: 150px;
+        width: 150px;
+    }
+    
+}
